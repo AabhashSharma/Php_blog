@@ -1,3 +1,9 @@
+<?php
+
+?>
+
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -15,7 +21,7 @@
                     <div class="card-body p-4">
                         <h2>Login</h2>
                         <p>Enter your email and password for login.</p>
-                        <form action="#">
+                        <form action="#" method="POST">
                             <div class="form-group">
                                 <label class="form-label" for="email">Email 
                                     <span class="text-danger">*</span>
