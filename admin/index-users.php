@@ -14,7 +14,8 @@
                 <th scope="col">Full Name</th>
                 <th scope="col">Email</th>
                 <th scope="col">Action</th>
-            </tr>
+            </tr> 
+            
         </thead>
         <tbody>
             <tr>

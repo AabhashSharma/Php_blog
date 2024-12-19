@@ -16,7 +16,7 @@
             <div class="col-lg-9">
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Posts</h2>
-                    <a href="create-post.html" class="btn btn-primary">
+                    <a href="create-post.php" class="btn btn-primary">
                         <i class="bi bi-plus"></i> Add New
                     </a>
                 </div>
@@ -40,7 +40,7 @@
                             </td>
                             <td>5th Dec 2024</td>
                             <td>
-                                <a href="edit-post.html" class="btn btn-primary btn-sm">
+                                <a href="edit-post.php" class="btn btn-primary btn-sm">
                                     <i class="bi bi-pencil"></i>
                                 </a>
                                 <a href="" class="btn btn-danger btn-sm">

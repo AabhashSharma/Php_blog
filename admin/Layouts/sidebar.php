@@ -10,7 +10,7 @@
                     </a>
                     <a href="#" class="list-group-item list-group-item-action "><i class="bi bi-chat-left me-1"></i> Comments
                     </a>
-                    <a href="#" class="list-group-item list-group-item-action "><i class="bi bi-person me-1"></i> Profile
+                    <a href="profile.php" class="list-group-item list-group-item-action "><i class="bi bi-person me-1"></i> Profile
                     </a>
                     <a href="#" class="list-group-item list-group-item-action "><i class="bi bi-person me-1"></i> Role
                     </a>
